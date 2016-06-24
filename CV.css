@@ -1,33 +1,16 @@
-body{
-
+body
+{
 	background-color: #FFFF99;
-
-
 }
 
-.Tech_junkie{
-	margin-bottom: -10px;
+.button
+{
+	border-radius: 28px;
+	font-family: Courier New;
+	color: #ffffff;
+	font-size: 20px;
+	background: #000000;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
 }
 
-.button{
- 	 border-radius: 28px;
-  font-family: Courier New;
-  color: #ffffff;
-  font-size: 20px;
-  background: #000000;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-	img.Android {
-}
-
-.container{
-	height:100%;
-	width:100%;
-}
-
-.Tech_Junkie{
-	float:left;
-	padding-right: 250px;
-}
